@@ -11,6 +11,6 @@ birthday_kids.each do |name, age|
   end
 end
 
-def age_appropriate_birthday(array)
+def age_appropriate_birthday(birthday_kids)
 
 end
